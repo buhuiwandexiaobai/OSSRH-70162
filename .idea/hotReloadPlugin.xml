@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HotReloadPluginConfiguration">
+    <option name="keywords">
+      <list>
+        <option value="gzoneLive" />
+      </list>
+    </option>
+    <option name="selectedHostName" value="td-dz-rs862.yz:19086" />
+    <option name="selectedProcess">
+      <JvmProcess>
+        <option name="detailVmArgs" value="-XX:+AggressiveOpts -XX:+UseStringDeduplication -Xss256k -Xmn2G -Xmx2G -Dfile.encoding=UTF-8 -Djava.library.path=/usr/local/lib" />
+        <option name="displayName" value="com.kuaishou.framework.rpc.server.RpcServerStarter -e gzoneLiveCloudRelayService -t 10 --disable-old-registry --force-registry-idc ZW,YZ" />
+        <option name="pid" value="12196" />
+      </JvmProcess>
+    </option>
+    <option name="server" value="hotfix.test.gifshow.com" />
+  </component>
+</project>
